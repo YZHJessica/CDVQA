@@ -1,6 +1,7 @@
 # CDVQA
 
 Please kindly cite this paper
+
 @article{yuan2022change,
   title={Change detection meets visual question answering},
   author={Yuan, Zhenghang and Mou, Lichao and Xiong, Zhitong and Zhu, Xiao Xiang},
